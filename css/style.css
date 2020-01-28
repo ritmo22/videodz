@@ -1,0 +1,33 @@
+.body {
+    margin: 0 auto;
+}
+
+.ocean {
+    position: relative;
+}
+
+.ococ {
+    position: absolute;
+    width: 100%;
+    display: block;
+    margin: -422px 0px 0 449px;
+    font-family: Century Gothic;
+    text-decoration: none;
+    font-size: 60px;
+    font-weight: 300;
+    color: blanchedalmond;
+}
+
+.ococ:hover {
+    color: aquamarine;
+}
+
+.ococ:active {
+    opacity: 0;
+}
+
+.audi {
+    position: absolute;
+    display: block;
+    margin: -347px 0 0 504px;
+}
