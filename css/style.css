@@ -11,7 +11,7 @@
     width: 100%;
     display: block;
     text-align: center;
-    margin: -422px 0px 0 449px;
+    margin: -422px 0px 0 0px;
     font-family: Century Gothic;
     text-decoration: none;
     font-size: 60px;
@@ -30,7 +30,6 @@
 .audi {
     position: absolute;
     display: block;
-    margin: -347px 0 0 504px;
-    width: 100%;
+    margin: -347px 0 0 800px;
     text-align: center;
 }
